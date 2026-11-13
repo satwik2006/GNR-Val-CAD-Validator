@@ -32,7 +32,7 @@ The system uses a **fusion decision architecture** where ML predictions and rule
 
 ## Live Demo
 
-**Live App:** [https://gnr-val-cad-validator-demo.streamlit.app/]
+**Live App:** [https://gnr-val-cad-validator-ekrtwt9t3swrkuvxtvmxat.streamlit.app/]
 No installation required — try it directly in your browser!
 
 ---
