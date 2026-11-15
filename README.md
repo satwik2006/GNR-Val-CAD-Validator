@@ -142,7 +142,7 @@ chmod +x setup_gnrval.sh
 
 ### Option 2 — Manual
 ```bash
-git clone https://github.com/adityadev00/GNR-Val-CAD-Validator.git
+git clone https://github.com/satwik2006/GNR-Val-CAD-Validator.git
 cd GNR-Val-CAD-Validator
 pip install -r requirements.txt
 streamlit run app.py
